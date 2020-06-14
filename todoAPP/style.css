@@ -1,0 +1,28 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightgreen
+}
+
+form  input{
+    font-size: 30px;
+}
+
+form  button{
+    font-size: 30px;
+}
+
+ul li {
+    font-size: 20px;
+    /* color: darkblue; */
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px 0;
+
+}
+
+div {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 2px solid black;
+}
